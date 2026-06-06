@@ -1,3 +1,4 @@
+# score board
 from turtle import Turtle
 ALIGNMENT = 'center'
 FONT = ('Times New Roman', 24, 'bold')
