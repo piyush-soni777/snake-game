@@ -24,7 +24,7 @@ class Snake:
         new_segment.penup()
         new_segment.goto(position)
         self.segments.append(new_segment)
-
+# develope by piyush-soni777
     def extend(self):
         self.add_segment(self.segments[-1].position())
 
